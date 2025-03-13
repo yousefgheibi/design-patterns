@@ -5,7 +5,7 @@ a repository for learning design patterns
 These patterns provide various object creation mechanisms, increasing flexibility and reuse.
 - **Singleton**
 - **Factory Method**
-- **Abstract Factory** (coming soon)
+- **Abstract Factory** 
 - **Builder** (coming soon)
 - **Prototype** (coming soon)
 
