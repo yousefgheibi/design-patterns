@@ -6,7 +6,7 @@ These patterns provide various object creation mechanisms, increasing flexibilit
 - **Singleton**
 - **Factory Method**
 - **Abstract Factory** 
-- **Builder** (coming soon)
+- **Builder**
 - **Prototype** (coming soon)
 
 ## Structural Patterns
