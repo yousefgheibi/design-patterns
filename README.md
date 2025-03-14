@@ -7,7 +7,7 @@ These patterns provide various object creation mechanisms, increasing flexibilit
 - **Factory Method**
 - **Abstract Factory** 
 - **Builder**
-- **Prototype** (coming soon)
+- **Prototype**
 
 ## Structural Patterns
 These patterns deal with object composition and typically help ensure that if one part of a system changes, the entire system does not need to do the same.
