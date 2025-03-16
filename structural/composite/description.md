@@ -26,6 +26,6 @@ The Composite pattern allows clients to interact with individual objects and com
    - Build a hierarchy of menu items and process them using a recursive function.
 
 ### **Benefits of Composite Pattern**
-**Uniformity:** Treats both individual and composite objects in the same way.
-**Scalability:** Easily extendable to support new components.
-**Maintainability:** Reduces conditional logic in the client code by abstracting tree traversal.
+- **Uniformity:** Treats both individual and composite objects in the same way.
+- **Scalability:** Easily extendable to support new components.
+- **Maintainability:** Reduces conditional logic in the client code by abstracting tree traversal.
