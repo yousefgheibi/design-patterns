@@ -12,7 +12,7 @@ These patterns provide various object creation mechanisms, increasing flexibilit
 ## Structural Patterns
 These patterns deal with object composition and typically help ensure that if one part of a system changes, the entire system does not need to do the same.
 - **Adapter**
-- **Bridge** (coming soon)
+- **Bridge**
 - **Composite** (coming soon)
 - **Decorator** (coming soon)
 - **Facade** (coming soon)
