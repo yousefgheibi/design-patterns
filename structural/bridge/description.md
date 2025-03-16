@@ -20,7 +20,7 @@ The Bridge pattern separates an abstraction from its implementation, allowing bo
 ### 0. Define an Interface for Implementation
 Create an interface (`Renderer`) that defines methods for different rendering techniques.
 
-### 1. Implement Concrete Renderer Classes
+### 1. Implement Concrete Implementation Classes
 Create concrete classes (`SVGRenderer`, `CanvasRenderer`) that implement the `Renderer` interface.
 
 ### 2. Define an Abstract Class for Abstraction
