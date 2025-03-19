@@ -14,7 +14,7 @@ These patterns deal with object composition and typically help ensure that if on
 - **Adapter**
 - **Bridge**
 - **Composite**
-- **Decorator** (coming soon)
+- **Decorator**
 - **Facade** (coming soon)
 - **Flyweight** (coming soon)
 - **Proxy** (coming soon)
