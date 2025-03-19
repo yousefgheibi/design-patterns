@@ -16,7 +16,7 @@ These patterns deal with object composition and typically help ensure that if on
 - **Composite**
 - **Decorator**
 - **Facade**
-- **Flyweight** (coming soon)
+- **Flyweight**
 - **Proxy** (coming soon)
 
 ## Behavioral Patterns
