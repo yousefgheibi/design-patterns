@@ -21,7 +21,7 @@ These patterns deal with object composition and typically help ensure that if on
 
 ## Behavioral Patterns
 These patterns are concerned with algorithms and the assignment of responsibilities between objects.
-- **Chain of Responsibility** (coming soon)
+- **Chain of Responsibility**
 - **Command** (coming soon)
 - **Interpreter** (coming soon)
 - **Iterator** (coming soon)
